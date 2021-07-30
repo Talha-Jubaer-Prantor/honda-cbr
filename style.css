@@ -1,0 +1,74 @@
+
+/* Navigation Bar Start*/
+.bg-color{
+    background-color: #264653;
+}
+.navbar{
+    padding-top: 25px;
+    
+}
+header a {
+    padding-left: 209%;
+    
+}
+.nav-btn{
+    margin-left: 30%;
+}
+
+header li{
+    margin-left: 6%;
+}
+
+.nav-link{
+    color: white;
+}
+.btn{
+    background-color: #e76f51;
+}
+.navbar-toggler{
+    padding-left: 90%;
+    border: none;
+}
+button:focus{
+    outline: none;
+}
+
+/* navigation Bar End */
+.header-banner{
+    background-color:#264653 ;
+}
+
+.row{
+    padding-top: 55px;
+    padding-bottom: 50px;
+}
+
+.header-body-content{
+    padding-left: 13%;
+    padding-top: 105px;
+    color: white;
+}
+.fetured-bikes-heading{
+    padding-top: 65px;
+    
+}
+
+.fetured-bikes{
+    background-color: #f6f6f6;
+}
+
+.card-deck{
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 55px;
+}
+
+.card{
+    border: none;
+    background-color: #f6f6f6;
+}
+
+.card-deck img{
+   width: 70%;
+   margin-left: 55px;
+}
