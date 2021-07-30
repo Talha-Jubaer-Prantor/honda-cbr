@@ -65,10 +65,63 @@ button:focus{
 
 .card{
     border: none;
-    background-color: #f6f6f6;
 }
 
 .card-deck img{
    width: 70%;
    margin-left: 55px;
+}
+.fetured-bikes-img{
+    filter: grayscale(100%);
+}
+
+/* Latest News sec */
+
+.latest-news-sec{
+    padding-top: 80px;
+}
+
+.card-text{
+    text-align: justify;
+}
+.card-body{
+    padding-left: 13%;
+    padding-right: 17%;
+}
+
+.card-footer {
+    padding-left: 13%;
+    padding-right: 17%;
+    border: none;
+}
+
+.card-footer button{
+    background-color: white;
+    color:#e76f51 ;
+    width: 115px;
+    height: 50px;
+}
+
+.card-footer button:hover{
+    background-color: #e76f51;
+    color:white ;
+}
+
+/* Clients sec */
+
+.clients{
+    padding-top: 80px;
+}
+
+.clients card-img-top {
+    width: 175px;
+    margin-left: 20%;
+    height: 175px;
+}
+
+.rounded-circle {
+    border-radius: 100px;
+}
+.rounded-circle{
+    height: 217px;
 }
